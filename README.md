@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Georgey, a full-stack web developer from India. I love to explore the new advancements in the Web development industry. I'm a part of Doge Capital, a blockchain development company. I'm also a guest author at freeCodeCamp and LogRocket.
+I'm Georgey, a full-stack web developer from India. I really enjoy researching the most recent developments in the web development field. I'm a part of Doge Capital, a blockchain development company. I'm also a guest author at freeCodeCamp and LogRocket.
 
 - More than 3+ years experience in full-stack web development.
 - Jumped into Web3, and have worked on numerous projects with Doge Capital.
